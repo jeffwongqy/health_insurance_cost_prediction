@@ -1,1 +1,1 @@
-# health_insurance_cost_prediction using random forest regressor 
+# Health Insurance Cost Prediction using Random Forest Regressor 
